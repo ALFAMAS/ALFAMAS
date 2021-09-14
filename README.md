@@ -38,17 +38,6 @@
 
 ---
 
-### 🌀 Latest Github Repositories
-
-<!-- Github:START -->
-- [Responsive Login](https://github.com/ALFAMAS/res-login)
-- [Pakistan 1 Forked](https://github.com/ALFAMAS/mas)
-- [Demo Video Link - 3](https://www.youtube.com/VideoLink)
-- [Demo Video Link - 4](https://www.youtube.com/VideoLink)
-- [Demo Video Link - 5](https://www.youtube.com/VideoLink)
-<!-- Github:END -->
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
