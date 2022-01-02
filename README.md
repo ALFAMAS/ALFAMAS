@@ -7,7 +7,7 @@
 
 - ⚡ I’m currently learning everything
 - 🥅 I try Contribute in Open Source Projects
-- 🌱 Fun fact: I love to play crack games
+- 🌱 Fun fact: I love to Play RP!
 
 ### Connect with me:
 
