@@ -8,9 +8,9 @@
 
 ### Connect with me:
 
+<a href="https://fb.com/masyasinarafat"><img align="left" alt="MAS Yasin Arafat | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 <a href="https://youtube.com/GTPro" /><img align="left" alt="ALFAMAS | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <a href="https://instagram.com/ALFAMAS"><img align="left" alt="ALFAMAS  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<a href="https://fb.com/ALFAMAS"><img align="left" alt="ALFAMAS | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 <br />
 
