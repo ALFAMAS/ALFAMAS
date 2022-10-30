@@ -1,9 +1,6 @@
 ### Hi there, I'm ALFAMAS 👋
 
-[![Website](https://img.shields.io/website?label=Contact&style=for-the-badge&url=https%3A%2F%2Ffb.com/ALFAMAS)](https://www.fb.com/masyasinarafat)
-
 ## I'm a Gamer, Streamer & Developer !
-
 
 - ⚡ I’m currently learning everything
 - 🥅 I try Contribute in Open Source Projects
