@@ -35,3 +35,9 @@
 <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=ALFAMAS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ALFAMAS" />
+</a>
