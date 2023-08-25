@@ -31,7 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br>
+<br />
 # GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![GitHub stats2](https://github-profile-trophy.vercel.app/?username=ALFAMAS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
