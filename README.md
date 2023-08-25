@@ -1,18 +1,20 @@
 ### Hi there, I'm ALFAMAS 👋
 
-## I'm a Gamer, Streamer & Developer !
+## I'm a Gamer, Streamer & Developer!
 
 - ⚡ I’m currently learning everything
-- 🥅 I try Contribute in Open Source Projects
+- 🥅 I try to Contribute in Open Source Projects
 - 🌱 Fun fact: I love to Play RP!
 
 ### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
+[![Facebook](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://fb.com/masyasinarafat)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masyasinarafat)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/masyasinarafat)
+[![YouTube-Main](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/GTPro)
+[![YouTube-Personal](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@masyasinarafat)
 
-<a href="https://fb.com/masyasinarafat"><img align="left" alt="MAS Yasin Arafat | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<a href="https://youtube.com/GTPro" /><img align="left" alt="ALFAMAS | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<a href="https://instagram.com/ALFAMAS"><img align="left" alt="ALFAMAS  | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
-<br />
+<br>
 
 ### Languages and Tools:
 
@@ -28,14 +30,18 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwindcss/tailwindcss.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-<br />
+<br>
+<br>
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=tokyonight)
-<br />
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS" />
-</a>
+# GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub stats2](https://github-profile-trophy.vercel.app/?username=ALFAMAS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![GitHub stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub stats4](https://github-readme-streak-stats.herokuapp.com/?user=ALFAMAS&theme=react&hide_border=false)
