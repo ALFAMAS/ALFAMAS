@@ -2,10 +2,6 @@
 
 ## I'm a Gamer, Streamer & Developer!
 
-- ⚡ I’m currently learning everything
-- 🥅 I try to Contribute in Open Source Projects
-- 🌱 Fun fact: I love to Play RP!
-
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://fb.com/masyasinarafat)
