@@ -35,3 +35,6 @@
 ![GitHub stats2](https://github-profile-trophy.vercel.app/?username=ALFAMAS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 ![GitHub stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub stats4](https://github-readme-streak-stats.herokuapp.com/?user=ALFAMAS&theme=react&hide_border=false)
+
+
+<img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="alfamas" />
