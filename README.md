@@ -10,6 +10,8 @@
 [![YouTube-Main](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/GTPro)
 [![YouTube-Personal](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@masyasinarafat)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=ALFAMAS&icon=8&color=0)](https://visitcount.itsvg.in)
+
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
