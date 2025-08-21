@@ -1,42 +1,80 @@
-### Hi there, I'm ALFAMAS 👋
+<div align="center">
 
-## I'm a Gamer, Streamer & Developer!
+# 👋 Hello, I'm **MAS Yasin Arafat** (ALFAMAS)
 
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
-[![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=Facebook&logoColor=white)](https://fb.com/masyasinarafat)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/masyasinarafat)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/masyasinarafat)
-[![YouTube-Main](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/GTPro)
-[![YouTube-Personal](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@masyasinarafat)
+### 🌍 Travel Technology Expert | 💳 Payment Gateway Specialist | 🚀 Full Stack Developer
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://visitcount.itsvg.in/api?id=ALFAMAS&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-alfamas.dev-blue?style=for-the-badge)](https://alfamas.dev)
+[![Email](https://img.shields.io/badge/📧_Email-arafat0951@gmail.com-red?style=for-the-badge)](mailto:arafat0951@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
 
-## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
+![Profile Views](https://visitcount.itsvg.in/api?id=ALFAMAS&label=Profile%20Views&color=0e75b6&style=flat&pretty=false)
 
-<br />
+</div>
 
-# GitHub Stats
+## 🚀 About Me
 
-![GitHub stats1](https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub stats2](https://github-profile-trophy.vercel.app/?username=ALFAMAS&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-![GitHub stats3](https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub stats4](https://github-readme-streak-stats.herokuapp.com/?user=ALFAMAS&theme=react&hide_border=false)
+**Travel Technology Expert** with 7+ years of experience specializing in **GDS integration** (Amadeus, Sabre, Travelport), **payment gateway solutions** (CyberSource), and **API development**. Currently building next-generation travel booking platforms and leading technical teams.
 
+- 🛫 **Expertise**: GDS Systems, Payment Gateways, API Development
+- 🌏 **Location**: Sydney, Australia
+- 🎯 **Focus**: Travel Technology Innovation & Team Leadership
+- 🤝 **Available**: Open for collaborations and consulting
 
-<img src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/b04cae27581df0fec528090fb0ed37799a25b52c/assets/footer.svg" alt="alfamas" />
+## 🛠️ Tech Stack
+
+**Travel Technology:**
+![Amadeus](https://img.shields.io/badge/Amadeus-FF6600?style=flat-square&logo=amadeus&logoColor=white)
+![Sabre](https://img.shields.io/badge/Sabre-0066CC?style=flat-square&logo=sabre&logoColor=white)
+![Travelport](https://img.shields.io/badge/Travelport-00A651?style=flat-square&logo=travelport&logoColor=white)
+![CyberSource](https://img.shields.io/badge/CyberSource-0052CC?style=flat-square&logo=visa&logoColor=white)
+![NDC](https://img.shields.io/badge/NDC-4285F4?style=flat-square&logo=airplane&logoColor=white)
+
+**Development:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALFAMAS&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALFAMAS&theme=react&hide_border=true&layout=compact"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ALFAMAS&theme=react&hide_border=true)
+
+</div>
+
+## 🏆 Key Projects
+
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| **Ticketemet.com** | Travel booking platform with GDS integration | Node.js, React, Amadeus | ✅ Live |
+| **Payment Gateway Suite** | Multi-currency payment processing | CyberSource, Node.js | ✅ Production |
+| **Multi-GDS API** | Unified API for multiple GDS providers | REST, SOAP | 🚧 Active |
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/masyasinarafat)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/masyasinarafat)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/GTPro)
+
+---
+
+<div align="center">
+
+**💼 Open for travel technology collaborations | 🚀 Building the future of travel**
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-alfamas.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfamas.dev)
+
+</div>
