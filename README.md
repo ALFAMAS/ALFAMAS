@@ -8,8 +8,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-arafat0951@gmail.com-red?style=for-the-badge)](mailto:arafat0951@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=ALFAMAS&label=Profile%20Views&color=0e75b6&style=flat&pretty=false)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Profile Views](https://visitcount.itsvg.in/api?id=ALFAMAS&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 ## 🚀 About Me
@@ -78,3 +77,4 @@
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-alfamas.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfamas.dev)
 
 </div>
+
