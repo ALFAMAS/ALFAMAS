@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/📧_Email-arafat0951@gmail.com-red?style=for-the-badge)](mailto:arafat0951@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masyasinarafat)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Profile Views]([https://komarev.com/ghpvc/?username=alfamas])
+![](https://komarev.com/ghpvc/?username=ALFAMAS)
 </div>
 
 ## 🚀 About Me
@@ -77,5 +77,6 @@
 [![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-alfamas.dev-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alfamas.dev)
 
 </div>
+
 
 
